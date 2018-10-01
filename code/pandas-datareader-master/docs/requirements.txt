@@ -1,0 +1,8 @@
+pandas
+mistune
+jsonschema
+ipython
+lxml
+beautifulsoup4
+html5lib
+requests-cache

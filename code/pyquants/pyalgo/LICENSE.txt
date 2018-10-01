@@ -1,0 +1,9 @@
+All the contents as well as the codes, Jupyter Notebooks and other materials in this Git repository and on the Quant Platform (http://pyalgo.pqp.io) related to the Python for Algorithmic Trading Course by The Python Quants GmbH are copyrighted and only intended for personal use in the context of a single user license for the course (http://pyalgo.tpq.io).
+
+Any kind of sharing, distribution, duplication, etc. without written permission by the The Python Quants GmbH is prohibited.
+
+The contents, Python codes, Jupyter Notebooks and other materials come without warranties or representations, to the extent permitted by applicable law.
+
+Notice that the course material is still work in progress and that substantial additions, changes, updates, etc. will take place in the near future. It is advised to regularly check for updates.
+
+(c) Dr. Yves J. Hilpisch | The Python Quants GmbH | January 2017
